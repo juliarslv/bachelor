@@ -1,8 +1,0 @@
-Language	Max Compression (No GPE)	Min Parity (No GPE)	Max Compression (With GPE)	Min Parity (With GPE)
-en	        7.11	                    0.0033	            3.01	                    0.0016
-de	        6.25	                    0.0013	            3.17	                    0.0007
-ar      	5.00	                    0.0047	            2.43	                    0.0026
-ru	        6.32                    	0.0043	            2.86	                    0.0019
-be          4.0                         0.0024              2.70                        0.0012
-mn          6.21                        0.0007              2.74                        0.0004
-zh          5.17                        0.0001              3.29                        0.0001              
